@@ -82,7 +82,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
-    <AdditionalFiles Include="Views\Navigation\NavigationLevel.cshtml" />
+    <Content Include="Views\Navigation\NavigationLevel.cshtml" />
     <None Include="web.config" />
   </ItemGroup>
   <PropertyGroup>
